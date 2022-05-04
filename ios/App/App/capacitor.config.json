@@ -1,0 +1,6 @@
+{
+	"appId": "dk.mutec.ionic",
+	"appName": "[Ionic PPlayground",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
